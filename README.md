@@ -1,4 +1,4 @@
-# ModelForge (Full Setup: Frontend + Backend)
+# ModelForge 
 
 ModelForge is a small full-stack app:
 
@@ -10,7 +10,7 @@ ModelForge is a small full-stack app:
 ## 1) Clone the repo
 
 ```bash
-git clone <YOUR_REPO_URL>
+git clone <https://github.com/someshhh-45/ModelForge.git>
 cd ModelForge
 ```
 
@@ -118,3 +118,4 @@ $env:NEXT_PUBLIC_BACKEND_URL="http://127.0.0.1:8001"; npm run dev
 
 - Backend details: see `modelforge/backend/README.md`
 - Frontend details: see `modelforge/frontend/README.md`
+
